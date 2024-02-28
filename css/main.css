@@ -1,0 +1,13 @@
+.heromain{
+width: 100vw;
+height: 100vh; /* El 100% del viewport height (altura visible del navegador) */
+background-image: url(../img/746936169_231493882_1706x960.webp); /* URL de tu imagen de fondo */
+background-size: none; /* Cubrir toda el área del contenedor */
+background-position: center; /* Centrar la imagen */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+color: white;
+}
